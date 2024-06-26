@@ -1,0 +1,11 @@
+Varaible Name ,Description,Type
+survival,Did Survive the incident?,Categoricol
+pclass,Class of the ticket,Categoricol
+sex,Gender,Categoricol
+Age,Age of the passenger,Numeric
+sibsp,no of siblings / spouses aboard the Titanic,Numeric
+parch,no of parents / children aboard the Titanic,Numeric
+ticket,Unique ticket number,Categoricol
+fare,Passenger fare,Numeric
+cabin,cabin number,Categoricol
+Embarked,Port of Embarkation,Categoricol
